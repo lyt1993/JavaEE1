@@ -1,6 +1,6 @@
 package com.yaotai.pattern.Factory1;
 
-public class CircleFactory extends AbstractFactory {
+public class ColorFactory extends AbstractFactory {
     @Override
     public Shape getShape(String type) {
         return null;
