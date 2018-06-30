@@ -22,6 +22,7 @@ public class Main1 {
         Game game = new CatGame();
         game.templateMethod();
 
+
         Game game1 = new DogGame();
         game1.templateMethod();
     }
